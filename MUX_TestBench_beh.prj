@@ -1,0 +1,2 @@
+vhdl work "Multiplexor.vhd"
+vhdl work "MUX_TestBench.vhd"

@@ -1,0 +1,52 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/GEORGE/Documents/Procesador/Procesador/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/GEORGE/Documents/Procesador/Procesador/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" in Library work.
+Entity <Memoria_instrucciones> compiled.
+ERROR:HDLParsers:3313 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 43. Undefined symbol 'text'.  Should it be: next?
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 43. text: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 44. Undefined symbol 'line'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 44. line: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 49. Undefined symbol 'readline'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 49. readline: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 49. Undefined symbol 'RomFile'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 49. RomFile: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 49. Undefined symbol 'RomFileLine'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 49. RomFileLine: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 50. Undefined symbol 'read'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 50. read: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 59. Undefined symbol 'MIentrada'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 59. MIentrada: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 63. Undefined symbol 'MIsalida'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 65. MIsalida: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 65. Undefined symbol 'conv_integer'.
+ERROR:HDLParsers:1209 - "C:/Users/GEORGE/Documents/Procesador/Procesador/Memoria_instrucciones.vhd" Line 65. conv_integer: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> 
+
+Total memory usage is 213704 kilobytes
+
+Number of errors   :   18 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

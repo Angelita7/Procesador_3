@@ -1,0 +1,2 @@
+vhdl isim_temp "Next_PC.vhd"
+vhdl isim_temp "NextPC_TestBench.vhd"
