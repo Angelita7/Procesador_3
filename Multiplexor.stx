@@ -1,35 +1,36 @@
 Release 14.7 - xst P.20131013 (nt64)
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
---> Parameter TMPDIR set to C:/Users/GEORGE/Pictures/Procesador_2/Procesador_2/xst/projnav.tmp
+--> Parameter TMPDIR set to C:/Users/GEORGE/Desktop/Procesador_2/Procesador_2/xst/projnav.tmp
 
 
-Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.15 secs
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.65 secs
  
---> Parameter xsthdpdir set to C:/Users/GEORGE/Pictures/Procesador_2/Procesador_2/xst
+--> Parameter xsthdpdir set to C:/Users/GEORGE/Desktop/Procesador_2/Procesador_2/xst
 
 
-Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.15 secs
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.65 secs
  
 --> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
 
 =========================================================================
 *                          HDL Compilation                              *
 =========================================================================
-Compiling vhdl file "C:/Users/GEORGE/Pictures/Procesador_2/Procesador_2/Multiplexor.vhd" in Library work.
-Entity <multiplexor> compiled.
-Entity <multiplexor> (Architecture <behavioral>) compiled.
+WARNING:HDLParsers:3607 - Unit work/Multiplexor is now defined in a different file.  It was defined in "C:/Users/GEORGE/Pictures/Procesador_2/Procesador_2/Multiplexor.vhd", and is now defined in "C:/Users/GEORGE/Desktop/Procesador_2/Procesador_2/Multiplexor.vhd".
+WARNING:HDLParsers:3607 - Unit work/Multiplexor/Behavioral is now defined in a different file.  It was defined in "C:/Users/GEORGE/Pictures/Procesador_2/Procesador_2/Multiplexor.vhd", and is now defined in "C:/Users/GEORGE/Desktop/Procesador_2/Procesador_2/Multiplexor.vhd".
+Compiling vhdl file "C:/Users/GEORGE/Desktop/Procesador_2/Procesador_2/Multiplexor.vhd" in Library work.
+Architecture behavioral of Entity multiplexor is up to date.
 
 
-Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.23 secs
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 1.04 secs
  
 --> 
 
-Total memory usage is 213640 kilobytes
+Total memory usage is 212624 kilobytes
 
 Number of errors   :    0 (   0 filtered)
-Number of warnings :    1 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
 Number of infos    :    0 (   0 filtered)
 
